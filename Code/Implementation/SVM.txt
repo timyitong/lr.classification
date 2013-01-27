@@ -1,0 +1,6 @@
+train=../data/citeseer.train.ltc.svm
+test=../data/citeseer.test.ltc.svm
+result=../data/svm_result
+c=0
+svm=../svm_light
+switch=on
